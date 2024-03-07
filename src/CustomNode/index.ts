@@ -1,1 +1,1 @@
-export { CircleNode } from "./ui/CircleNode"
+export { CircleNode } from "./ui/CircleNode/CircleNode"

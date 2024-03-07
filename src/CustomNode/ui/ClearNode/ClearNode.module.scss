@@ -1,0 +1,22 @@
+.nodeContainer {
+    position: relative;
+    overflow: visible;
+    padding: 0 5px;
+    width: 100px;
+    height: 24px;
+
+    .title {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        white-space: nowrap;
+        text-align: center;
+        color: royalblue;
+        font-weight: 500;
+    }
+
+    .handle {
+        // opacity: 0;
+    }
+}
