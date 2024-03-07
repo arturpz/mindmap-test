@@ -1,1 +1,1 @@
-export { FlowChart } from "./ui/FlowChart"
+export { FlowChartWrapper as FlowChart } from "./ui/FlowChartWrapper"
