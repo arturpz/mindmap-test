@@ -179,7 +179,7 @@ export const initialNodes: Node<TNodeTypesData>[] = [
     {
         id: "15",
         type: "clear",
-        position: { x: 420, y: 300 },
+        position: { x: 418, y: 300 },
         data: {
             title: "Some info for Node B & Node C",
             sourcePositions: ["top"],
@@ -188,7 +188,7 @@ export const initialNodes: Node<TNodeTypesData>[] = [
     {
         id: "16",
         type: "clear",
-        position: { x: 157, y: -100 },
+        position: { x: 151.5, y: -100 },
         data: {
             title: "Some info for Node A",
             sourcePositions: ["bottom"],
